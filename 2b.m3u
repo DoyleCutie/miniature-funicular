@@ -1,130 +1,130 @@
 #EXTM3U x-tvg-url="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/main/e.xml"
 
-# === 中央卫视 ===
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png",CCTV-1HD 综合频道
+# === 中央频道 ===
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png",CCTV-1HD 综合频道
 http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png",CCTV-1HD 综合频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png",CCTV-1HD 综合频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV2" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png",CCTV-2HD 财经频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV2" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png",CCTV-2HD 财经频道
 http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV2" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png",CCTV-2HD 财经频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV2" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png",CCTV-2HD 财经频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV3" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png",CCTV-3HD 综艺频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV3" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png",CCTV-3HD 综艺频道
 http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV3" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png",CCTV-3HD 综艺频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV3" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png",CCTV-3HD 综艺频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV4" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png",CCTV-4HD 中文国际
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV4" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png",CCTV-4HD 中文国际
 http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV4" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png",CCTV-4HD 中文国际
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV4" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png",CCTV-4HD 中文国际
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV5" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png",CCTV-5HD 体育频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png",CCTV-5HD 体育频道
 http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV5" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png",CCTV-5HD 体育频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png",CCTV-5HD 体育频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
 http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV6" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png",CCTV-6HD 电影频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV6" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png",CCTV-6HD 电影频道
 http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV6" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png",CCTV-6HD 电影频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV6" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png",CCTV-6HD 电影频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV7" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png",CCTV-7HD 国防军事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV7" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png",CCTV-7HD 国防军事
 http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV7" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png",CCTV-7HD 国防军事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV7" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png",CCTV-7HD 国防军事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV8" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png",CCTV-8HD 电视剧频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV8" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png",CCTV-8HD 电视剧频道
 http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV8" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png",CCTV-8HD 电视剧频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV8" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png",CCTV-8HD 电视剧频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV9" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png",CCTV-9HD 纪录频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV9" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png",CCTV-9HD 纪录频道
 http://107.150.60.122/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV9" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png",CCTV-9HD 纪录频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV9" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png",CCTV-9HD 纪录频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV10" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png",CCTV-10HD 科教频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV10" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png",CCTV-10HD 科教频道
 http://107.150.60.122/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV10" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png",CCTV-10HD 科教频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV10" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png",CCTV-10HD 科教频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV11" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png",CCTV-11HD 戏曲频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV11" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png",CCTV-11HD 戏曲频道
 http://107.150.60.122/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV11" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png",CCTV-11HD 戏曲频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV11" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png",CCTV-11HD 戏曲频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV12" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png",CCTV-12HD 社会与法
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV12" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png",CCTV-12HD 社会与法
 http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV12" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png",CCTV-12HD 社会与法
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV12" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png",CCTV-12HD 社会与法
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV13" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png",CCTV-13HD 新闻频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV13" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png",CCTV-13HD 新闻频道
 http://107.150.60.122/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV13" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png",CCTV-13HD 新闻频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV13" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png",CCTV-13HD 新闻频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV14" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png",CCTV-14HD 少儿频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV14" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png",CCTV-14HD 少儿频道
 http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV14" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png",CCTV-14HD 少儿频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV14" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png",CCTV-14HD 少儿频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV15" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png",CCTV-15HD 音乐频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV15" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png",CCTV-15HD 音乐频道
 http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV15" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png",CCTV-15HD 音乐频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV15" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png",CCTV-15HD 音乐频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV16" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png",CCTV-16HD 奥林匹克
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV16" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png",CCTV-16HD 奥林匹克
 http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV16" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png",CCTV-16HD 奥林匹克
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV16" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png",CCTV-16HD 奥林匹克
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV17" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png",CCTV-17HD 农业农村
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV17" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png",CCTV-17HD 农业农村
 http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="中央卫视" tvg-id="CCTV17" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png",CCTV-17HD 农业农村
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV17" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png",CCTV-17HD 农业农村
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2805" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png",CCTV-4K 超高清频道
+#EXTINF:-1 group-title="中央频道" tvg-id="2805" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png",CCTV-4K 超高清频道
 http://107.150.60.122/live/cctv4k.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2806" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png",CCTV-8K 超高清频道
+#EXTINF:-1 group-title="中央频道" tvg-id="2806" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png",CCTV-8K 超高清频道
 http://107.150.60.122/live/cctv8k.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2807" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png",CCTV-第一剧场
+#EXTINF:-1 group-title="中央频道" tvg-id="2807" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png",CCTV-第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2808" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png",CCTV-风云剧场
+#EXTINF:-1 group-title="中央频道" tvg-id="2808" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png",CCTV-风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2809" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云音乐.png",CCTV-风云音乐
+#EXTINF:-1 group-title="中央频道" tvg-id="2809" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云音乐.png",CCTV-风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2810" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云足球.png",CCTV-风云足球
+#EXTINF:-1 group-title="中央频道" tvg-id="2810" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云足球.png",CCTV-风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2811" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png",CCTV-高尔夫网球
+#EXTINF:-1 group-title="中央频道" tvg-id="2811" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png",CCTV-高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2812" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV兵器科技.png",CCTV-兵器科技
+#EXTINF:-1 group-title="中央频道" tvg-id="2812" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV兵器科技.png",CCTV-兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2814" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV女性时尚.png",CCTV-女性时尚
+#EXTINF:-1 group-title="中央频道" tvg-id="2814" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV女性时尚.png",CCTV-女性时尚
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2815" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png",CCTV-世界地理
+#EXTINF:-1 group-title="中央频道" tvg-id="2815" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png",CCTV-世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2816" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV怀旧剧场.png",CCTV-怀旧剧场
+#EXTINF:-1 group-title="中央频道" tvg-id="2816" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV怀旧剧场.png",CCTV-怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8
 
-#EXTINF:-1 group-title="中央卫视" tvg-id="2817" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png",CCTV-央视台球
+#EXTINF:-1 group-title="中央频道" tvg-id="2817" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png",CCTV-央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8
 
 # === 地方频道 ===
