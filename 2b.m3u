@@ -26,9 +26,9 @@ http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="中央频道" tvg-id="CCTV5" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png",CCTV-5HD 体育频道
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 
-#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5+" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
 http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5P" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV5+" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5P.png",CCTV-5+HD 体育赛事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 
 #EXTINF:-1 group-title="中央频道" tvg-id="CCTV6" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png",CCTV-6HD 电影频道
@@ -91,10 +91,10 @@ http://107.150.60.122/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="中央频道" tvg-id="CCTV17" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png",CCTV-17HD 农业农村
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
-#EXTINF:-1 group-title="中央频道" tvg-id="cctv4k" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png",CCTV-4K 超高清频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV4K" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png",CCTV-4K 超高清频道
 http://107.150.60.122/live/cctv4k.m3u8
 
-#EXTINF:-1 group-title="中央频道" tvg-id="cctv8k" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png",CCTV-8K 超高清频道
+#EXTINF:-1 group-title="中央频道" tvg-id="CCTV8K" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png",CCTV-8K 超高清频道
 http://107.150.60.122/live/cctv8k.m3u8
 
 #EXTINF:-1 group-title="中央频道" tvg-id="第一剧场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png",CCTV-第一剧场
