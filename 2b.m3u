@@ -225,3 +225,112 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8
 https://t.freetv.fun/live/dreamworks-7.m3u8
 #EXTINF:-1 group-title="少儿频道" tvg-id="动画梦工场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动画梦工场.png",动画梦工场
 https://t.freetv.fun/live/dreamworksmeng-gong-han-dong-hua.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）Counter-Strike-2
+http://dxa.yiandrive.com:27385/bilibili/21622811
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）英雄联盟
+http://dxa.yiandrive.com:27385/bilibili/6
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）英雄联盟•手游
+http://dxa.yiandrive.com:27385/bilibili/23138275
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）王者荣耀
+http://dxa.yiandrive.com:27385/bilibili/55
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）王者荣耀
+http://dxa.yiandrive.com:27385/bilibili/21654762
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）绝地求生
+http://dxa.yiandrive.com:27385/bilibili/98
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）使命召唤•手游
+http://dxa.yiandrive.com:27385/bilibili/22741849
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）第五人格
+http://dxa.yiandrive.com:27385/bilibili/5555
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）无畏契约
+http://dxa.yiandrive.com:27385/bilibili/22908869
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）QQ飞车•手游
+http://dxa.yiandrive.com:27385/bilibili/21743919
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）JJ斗地主
+http://dxa.yiandrive.com:27385/bilibili/22021983
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）Counter-Strike-2
+http://dxa.yiandrive.com:27385/huya/483917
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）英雄联盟
+http://dxa.yiandrive.com:27385/huya/660000
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）英雄联盟
+http://dxa.yiandrive.com:27385/huya/660001
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）王者荣耀
+http://dxa.yiandrive.com:27385/huya/660002
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）王者荣耀
+http://dxa.yiandrive.com:27385/huya/660164
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）绝地求生
+http://dxa.yiandrive.com:27385/huya/660004
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）绝地求生
+http://dxa.yiandrive.com:27385/huya/660005
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）和平精英
+http://dxa.yiandrive.com:27385/huya/660006
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）金铲铲之战
+http://dxa.yiandrive.com:27385/huya/660579
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）DOTA2
+http://dxa.yiandrive.com:27385/huya/660118
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）永劫无间
+http://dxa.yiandrive.com:27385/huya/660115
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）使命召唤•手游
+http://dxa.yiandrive.com:27385/huya/11718629
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）穿越火线
+http://dxa.yiandrive.com:27385/huya/660101
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）穿越火线•手游
+http://dxa.yiandrive.com:27385/huya/660102
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）第五人格
+http://dxa.yiandrive.com:27385/huya/idvesports
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）逆战
+http://dxa.yiandrive.com:27385/huya/nsl2021
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title=" 游戏赛事",（虎牙直播）无畏契约
+http://dxa.yiandrive.com:27385/huya/660679
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）英雄联盟
+http://dxa.yiandrive.com:27385/douyu/288016
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）英雄联盟
+http://dxa.yiandrive.com:27385/douyu/424559
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）王者荣耀
+http://dxa.yiandrive.com:27385/douyu/1863767
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）王者荣耀
+http://dxa.yiandrive.com:27385/douyu/1984839
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）绝地求生
+http://dxa.yiandrive.com:27385/douyu/100
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）绝地求生
+http://dxa.yiandrive.com:27385/douyu/5818871
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）和平精英
+http://dxa.yiandrive.com:27385/douyu/999
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）金铲铲之战
+http://dxa.yiandrive.com:27385/douyu/9715241
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）DOTA2
+http://dxa.yiandrive.com:27385/douyu/3811559
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）云顶之弈
+http://dxa.yiandrive.com:27385/douyu/522423
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）永劫无间
+http://dxa.yiandrive.com:27385/huya/9662891
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）使命召唤•手游
+http://dxa.yiandrive.com:27385/douyu/9223245
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）穿越火线
+http://dxa.yiandrive.com:27385/douyu/605964
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）穿越火线
+http://dxa.yiandrive.com:27385/douyu/5388537
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）第五人格
+http://dxa.yiandrive.com:27385/douyu/3226194
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）无畏契约
+http://dxa.yiandrive.com:27385/douyu/4585645
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）原神
+http://dxa.yiandrive.com:27385/douyu/10853239
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）QQ飞车•手游
+http://dxa.yiandrive.com:27385/douyu/5040227
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）梦幻西游·手游
+http://dxa.yiandrive.com:27385/huya/9163712
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）街霸
+http://dxa.yiandrive.com:27385/huya/11437
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）JJ斗地主
+http://dxa.yiandrive.com:27385/douyu/488743
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）我的世界
+http://dxa.yiandrive.com:27385/douyu/738878
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）FIFA
+http://dxa.yiandrive.com:27385/douyu/7692166
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）火影忍者
+http://dxa.yiandrive.com:27385/douyu/1997723
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）跑跑卡丁车
+http://dxa.yiandrive.com:27385/douyu/7722576
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",（斗鱼直播）跑跑卡丁车•手游
+http://dxa.yiandrive.com:27385/douyu/6672862
