@@ -207,7 +207,13 @@ http://111.56.90.5/000000000000/1000000002000003169/1.m3u8
 http://111.56.90.5/000000000000/5000000011000031120/1.m3u8
 
 #EXTINF:-1 group-title="地方频道" tvg-id="西藏卫视" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png",西藏卫视
-http://111.56.90.5/000000000000/1000000002000015894/1.m3u8
+https://t.freetv.fun/live/xi-cang-wei-shi-6.php
+
+#EXTINF:-1 group-title="地方频道" tvg-id="西藏卫视" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png",西藏卫视
+https://t.freetv.fun/live/xi-cang-wei-shi-7.php
+
+#EXTINF:-1 group-title="地方频道" tvg-id="西藏卫视" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png",西藏卫视
+https://t.freetv.fun/live/xi-cang-wei-shi-3.m3u8
 
 #EXTINF:-1 group-title="地方频道" tvg-id="陕西卫视" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西卫视.png",陕西卫视
 http://111.56.90.5/000000000000/5000000006000040017/1.m3u8
@@ -226,7 +232,7 @@ http://111.56.90.5/000000000000/5802765535081445534/1.m3u8
 
 # === 教育频道 ===
 #EXTINF:-1 group-title="教育频道" tvg-id="CETV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png",CETV-1
-http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8
+https://t.freetv.fun/live/cetv1.m3u8
 
 #EXTINF:-1 group-title="教育频道" tvg-id="CETV2" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png",CETV-2
 http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8
@@ -238,47 +244,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8
 
 # === 少儿频道 ===
-#EXTINF:-1 group-title="少儿频道" tvg-id="嘉佳卡通" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-23.m3u8
+#EXTINF:-1 group-title="少儿频道" tvg-id="动画梦工场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动画梦工场.png",动画梦工场
+https://t.freetv.fun/live/dreamworks-7.m3u8
 
-https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-8.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-1.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-2.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-7.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-3.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-6.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-12.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://t.freetv.fun/live/jia-jia-qia-tong-4.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-http://183.11.239.36:808/hls/8/index.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-15.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-19.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-13.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-18.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-16.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-14.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-24.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-26.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-23.m3u8
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-22.ctv
-#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png"  group-title="儿童频道",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
+#EXTINF:-1 group-title="少儿频道" tvg-id="动画梦工场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动画梦工场.png",动画梦工场
+https://t.freetv.fun/live/dreamworksmeng-gong-han-dong-hua.m3u8
