@@ -2,7 +2,7 @@ name: Auto Update Live Sources
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 每天北京时间早上 6 点自动运行
+    - cron: '30 0 * * *' # 每天北京时间早上 8 点30自动运行
   workflow_dispatch:      # 允许你手动点击运行按钮
 
 jobs:
