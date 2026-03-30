@@ -277,6 +277,8 @@ https://t.freetv.fun/live/dreamworks-7.m3u8
 https://t.freetv.fun/live/cartoon-network-1.m3u8
 #EXTINF:-1 group-title="国外频道" tvg-id="HBO" tvg-logo="https://gh-proxy.org/https://github.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/HBO.png",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="国外频道" tvg-id="HBO" tvg-logo="https://gh-proxy.org/https://github.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/HBO.png",HBO
+http://67.220.71.199:2347/livehttpplay?channel_id=20123
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）Counter-Strike-2
 http://dxa.yiandrive.com:27385/bilibili/21622811
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）英雄联盟
