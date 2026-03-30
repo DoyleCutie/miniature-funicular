@@ -225,7 +225,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8
 https://t.freetv.fun/live/dreamworks-7.m3u8
 #EXTINF:-1 group-title="少儿频道" tvg-id="动画梦工场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动画梦工场.png",动画梦工场
 https://t.freetv.fun/live/dreamworksmeng-gong-han-dong-hua.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）Counter-Strike-2
 http://dxa.yiandrive.com:27385/bilibili/21622811
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",（BiliBili）英雄联盟
