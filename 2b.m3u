@@ -271,10 +271,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8
 #EXTINF:-1 group-title="教育频道" tvg-id="CETV4" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png",CETV-4
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8
-#EXTINF:-1 group-title="少儿频道" tvg-id="动画梦工场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动画梦工场.png",动画梦工场
-https://t.freetv.fun/live/dreamworks-7.m3u8
 #EXTINF:-1 group-title="少儿频道" tvg-id="卡通频道" tvg-logo="https://gh-proxy.org/https://github.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/Cartoon-Network.png",卡通频道
 https://t.freetv.fun/live/cartoon-network-1.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-id="CHC动作电影频道" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/CHC动作电影频道.png",CHC动作电影频道
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="国外频道" tvg-id="HBO" tvg-logo="https://gh-proxy.org/https://github.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/HBO.png",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="国外频道" tvg-id="HBO" tvg-logo="https://gh-proxy.org/https://github.com/DoyleCutie/InternetProtocolTvLoGo/blob/main/LoGo/HBO.png",HBO
