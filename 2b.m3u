@@ -649,9 +649,9 @@ https://t.freetv.fun/live/hu-nan-wei-shi-gao-qing.m3u8
 https://t.freetv.fun/live/jin-ying-qia-tong-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",电影
 https://t.freetv.fun/live/dian-ying-10.flv
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV-1HD 综合频道
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="中央频道",CCTV-1HD 综合频道
 https://t.freetv.fun/live/cctv-1hd-1.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV-1HD 综合频道
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="中央频道",CCTV-1HD 综合频道
 https://t.freetv.fun/live/cctv-1gao-qing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4k超高清
 https://t.freetv.fun/live/cctv-4kchao-gao-qing-5.m3u8
@@ -775,13 +775,13 @@ https://t.freetv.fun/live/shan-xi-ti-yu.m3u8
 https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-5体育
 https://t.freetv.fun/live/cctv-5ti-yu.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV-1HD 综合频道
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="中央频道",CCTV-1HD 综合频道
 https://t.freetv.fun/live/cctv-1zong-he-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-9纪录
 https://t.freetv.fun/live/cctv-9ji-lu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-12社会与法
 https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV-1HD 综合频道
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="中央频道",CCTV-1HD 综合频道
 https://t.freetv.fun/live/cctv-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv1综合
 https://t.freetv.fun/live/cctv1zong-he.m3u8
