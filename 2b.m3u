@@ -156,6 +156,8 @@ https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="地方频道",河北卫视
 https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
+https://t.freetv.fun/live/shan-xi-wei-shi-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-6-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-14.m3u8
@@ -772,6 +774,8 @@ https://t.freetv.fun/live/cctv-4gao-qing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4hd
 https://t.freetv.fun/live/cctv-4hd-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4k高清
+https://t.freetv.fun/live/cctv-4kgao-qing-8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4k高清
 https://t.freetv.fun/live/cctv-4kgao-qing-10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4k高清
 https://t.freetv.fun/live/cctv-4kgao-qing-7.m3u8
@@ -1056,6 +1060,8 @@ https://t.freetv.fun/live/dong-sen-dian-ying-2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",經典卡通
 https://t.freetv.fun/live/jing-dian-qia-tong-5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",经典电影
+https://t.freetv.fun/live/jing-dian-dian-ying-4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="高清频道",经典电影
 https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",经典电影
 https://t.freetv.fun/live/jing-dian-dian-ying-2.m3u8
@@ -1167,6 +1173,8 @@ https://t.freetv.fun/live/cctv9ji-lu-1.m3u8
 https://t.freetv.fun/live/cctv-09.php
 #EXTINF:-1 tvg-logo="" group-title="地方卫视",中国农林卫视
 https://t.freetv.fun/live/zhong-guo-nong-lin-wei-shi-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="高清频道",金鹰纪实
+https://t.freetv.fun/live/jin-ying-ji-shi-9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",金鹰纪实
 https://t.freetv.fun/live/jin-ying-ji-shi-6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",金鹰纪实
