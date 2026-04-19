@@ -1100,11 +1100,15 @@ https://t.freetv.fun/live/cctv-11-1.php
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-11
 https://t.freetv.fun/live/cctv-11.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv11戏曲
+https://t.freetv.fun/live/cctv11xi-qu.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv11戏曲
 https://t.freetv.fun/live/cctv11xi-qu-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-12
 https://t.freetv.fun/live/cctv-12.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-13
 https://t.freetv.fun/live/cctv-13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv13新闻
+https://t.freetv.fun/live/cctv13xin-wen.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv13新闻
 https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-13新闻
@@ -1112,9 +1116,13 @@ https://t.freetv.fun/live/cctv-13xin-wen-7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-14少儿
 https://t.freetv.fun/live/cctv-14shao-er-7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv14少儿
+https://t.freetv.fun/live/cctv14shao-er.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv14少儿
 https://t.freetv.fun/live/cctv14shao-er-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-14
 https://t.freetv.fun/live/cctv-14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv15音乐
+https://t.freetv.fun/live/cctv15yin-le.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv15音乐
 https://t.freetv.fun/live/cctv15yin-le-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-15
@@ -1136,9 +1144,13 @@ https://t.freetv.fun/live/cctv-17-1.php
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-17
 https://t.freetv.fun/live/cctv-17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv2财经
+https://t.freetv.fun/live/cctv2cai-jing.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv2财经
 https://t.freetv.fun/live/cctv2cai-jing-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-3
 https://t.freetv.fun/live/cctv-3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv3综艺
+https://t.freetv.fun/live/cctv3zong-yi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv3综艺
 https://t.freetv.fun/live/cctv3zong-yi-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv4欧洲
@@ -1150,15 +1162,21 @@ https://t.freetv.fun/live/cctv-4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-4中文国际
 https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv4中文国际
+https://t.freetv.fun/live/cctv4zhong-wen-guo-ji.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv4中文国际
 https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-5
 https://t.freetv.fun/live/cctv-5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv5体育
+https://t.freetv.fun/live/cctv5ti-yu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv5体育
 https://t.freetv.fun/live/cctv5ti-yu-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-5 plus体育赛事
 https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi-4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv5 plus体育赛事
 https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6电影
+https://t.freetv.fun/live/cctv6dian-ying.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6电影
 https://t.freetv.fun/live/cctv6dian-ying-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-6
@@ -1167,6 +1185,8 @@ https://t.freetv.fun/live/cctv-6.m3u8
 https://t.freetv.fun/live/cctv-7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-9
 https://t.freetv.fun/live/cctv-9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv9纪录
+https://t.freetv.fun/live/cctv9ji-lu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv9纪录
 https://t.freetv.fun/live/cctv9ji-lu-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-09
@@ -1405,3 +1425,5 @@ https://t.freetv.fun/live/liao-zhu-wei-shi-8m1080.m3u8
 https://t.freetv.fun/live/hei-long-jiang-wei-shi-8m1080.m3u8
 #EXTINF:-1 group-title="地方卫视" tvg-id="黑龙江卫视 4m1080",黑龙江卫视 4m1080
 https://t.freetv.fun/live/hei-long-jiang-wei-shi-4m1080.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="cctvnews",cctvnews
+https://t.freetv.fun/live/cctvnews.m3u8
