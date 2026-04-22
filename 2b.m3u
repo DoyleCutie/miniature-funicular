@@ -614,6 +614,8 @@ https://t.freetv.fun/live/cctv-8kchao-gao-qing-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-8k超高清
 https://t.freetv.fun/live/cctv-8kchao-gao-qing-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv1
+https://t.freetv.fun/live/cctv1-3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv1
 https://t.freetv.fun/live/cctv1-1-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv1
 https://t.freetv.fun/live/cctv1-9.php
@@ -873,6 +875,8 @@ https://t.freetv.fun/live/cctv5-plus-3.m3u8
 https://t.freetv.fun/live/cctv5-plus-7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv5 plus
 https://t.freetv.fun/live/cctv5-plus-5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6
+https://t.freetv.fun/live/cctv6-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6
 https://t.freetv.fun/live/cctv6-1-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6
@@ -1134,6 +1138,8 @@ https://t.freetv.fun/live/long-hua-dian-ying-b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-2高清
 https://t.freetv.fun/live/cctv-2gao-qing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-2hd
+https://t.freetv.fun/live/cctv-2hd-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-2hd
 https://t.freetv.fun/live/cctv-2hd-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-2hd
 https://t.freetv.fun/live/cctv-2hd-1.m3u8
@@ -1199,6 +1205,8 @@ https://t.freetv.fun/live/cctv-15yin-le-13.m3u8
 https://t.freetv.fun/live/cctv-15yin-le-12.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-15音乐
 https://t.freetv.fun/live/cctv-15yin-le-7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-16
+https://t.freetv.fun/live/cctv-16-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-16
 https://t.freetv.fun/live/cctv-16-1.php
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-16
