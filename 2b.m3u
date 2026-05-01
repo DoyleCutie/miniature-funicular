@@ -842,6 +842,8 @@ https://t.freetv.fun/live/cctv3-10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-3高清
 https://t.freetv.fun/live/cctv-3gao-qing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-3hd
+https://t.freetv.fun/live/cctv-3hd-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-3hd
 https://t.freetv.fun/live/cctv-3hd-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-3hd
 https://t.freetv.fun/live/cctv-3hd-1.m3u8
@@ -993,6 +995,8 @@ https://t.freetv.fun/live/cctv-7gao-qing.m3u8
 https://t.freetv.fun/live/cctv-7hd-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-7hd
 https://t.freetv.fun/live/cctv-7hd-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv8
+https://t.freetv.fun/live/cctv8-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv8
 https://t.freetv.fun/live/cctv8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv8
