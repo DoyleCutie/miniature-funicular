@@ -164,6 +164,8 @@ https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="地方频道",河北卫视
 https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
+https://t.freetv.fun/live/shan-xi-wei-shi-17.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-2.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-6-1.m3u8
@@ -936,6 +938,8 @@ https://t.freetv.fun/live/cctv-17hd-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-17hd
 https://t.freetv.fun/live/cctv-17hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv2
+https://t.freetv.fun/live/cctv2-4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv2
 https://t.freetv.fun/live/cctv2-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv2
 https://t.freetv.fun/live/cctv2-sm.php
@@ -1416,6 +1420,8 @@ https://t.freetv.fun/live/amcdian-ying.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",dreamworks梦工厂动画
 https://t.freetv.fun/live/dreamworksmeng-gong-han-dong-hua.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",影迷数位电影
+https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="高清频道",影迷数位电影
 https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",影迷数位电影
 https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
@@ -1709,6 +1715,8 @@ https://t.freetv.fun/live/mei-ya-dian-ying.php
 https://t.freetv.fun/live/mei-ya-dian-ying-2.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="美亚电影",美亚电影
 https://t.freetv.fun/live/mei-ya-dian-ying-1.m3u8
+#EXTINF:-1 group-title="高清频道" tvg-id="靖洋卡通台nice bingo",靖洋卡通台nice bingo
+https://t.freetv.fun/live/jing-yang-qia-tong-tai-nice-bingo-1.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="靖洋卡通台nice bingo",靖洋卡通台nice bingo
 https://t.freetv.fun/live/jing-yang-qia-tong-tai-nice-bingo.php
 #EXTINF:-1 group-title="高清频道" tvg-id="靖天卡通",靖天卡通
