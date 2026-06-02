@@ -2184,6 +2184,8 @@ https://t.freetv.fun/live/cctv-6-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-6
 https://t.freetv.fun/live/cctv-6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-7
+https://t.freetv.fun/live/cctv-7-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-7
 https://t.freetv.fun/live/cctv-7-4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-7
 https://t.freetv.fun/live/cctv-7-1.m3u8
@@ -3167,3 +3169,5 @@ https://t.freetv.fun/live/shang-hai-wei-shi.m3u8
 http://112.27.235.94:8000/hls/28/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="cctv-4 asia",cctv-4 asia
 https://t.freetv.fun/live/cctv-4-asia.m3u8
+#EXTINF:-1 group-title="高清频道" tvg-id="龙华电影",龙华电影
+https://t.freetv.fun/live/long-hua-dian-ying.m3u8
