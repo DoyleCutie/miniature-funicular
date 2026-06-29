@@ -176,6 +176,8 @@ https://t.freetv.fun/live/tian-jin-wei-shi-11.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津卫视.png" group-title="地方频道",天津卫视
 https://t.freetv.fun/live/tian-jin-wei-shi-12.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="地方频道",河北卫视
+https://t.freetv.fun/live/he-bei-wei-shi-16.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="地方频道",河北卫视
 https://t.freetv.fun/live/he-bei-wei-shi-22.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="地方频道",河北卫视
 https://t.freetv.fun/live/he-bei-wei-shi-20.m3u8
@@ -242,6 +244,8 @@ https://t.freetv.fun/live/shan-xi-wei-shi-2-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="地方频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙古卫视.png" group-title="地方频道",内蒙古卫视
+https://t.freetv.fun/live/nei-meng-gu-wei-shi-16.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙古卫视.png" group-title="地方频道",内蒙古卫视
 https://t.freetv.fun/live/nei-meng-gu-wei-shi-19.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙古卫视.png" group-title="地方频道",内蒙古卫视
 https://t.freetv.fun/live/nei-meng-gu-wei-shi-21.m3u8
@@ -305,6 +309,8 @@ https://t.freetv.fun/live/liao-zhu-wei-shi-11.m3u8
 https://t.freetv.fun/live/liao-zhu-wei-shi-7.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁卫视.png" group-title="地方频道",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/吉林卫视.png" group-title="地方频道",吉林卫视
+https://t.freetv.fun/live/ji-lin-wei-shi-23.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/吉林卫视.png" group-title="地方频道",吉林卫视
 https://t.freetv.fun/live/ji-lin-wei-shi-21.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/吉林卫视.png" group-title="地方频道",吉林卫视
@@ -542,6 +548,8 @@ https://t.freetv.fun/live/dong-nan-wei-shi-4.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="地方频道",东南卫视
 http://111.56.90.5/000000000000/1000000005000265033/1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
+https://t.freetv.fun/live/jiang-xi-wei-shi-12.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
 https://t.freetv.fun/live/jiang-xi-wei-shi-15.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
 https://t.freetv.fun/live/jiang-xi-wei-shi-25.m3u8
@@ -559,6 +567,8 @@ https://t.freetv.fun/live/jiang-xi-wei-shi-18.m3u8
 https://t.freetv.fun/live/jiang-xi-wei-shi-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
 http://111.56.90.5/000000000000/1000000001000013731/1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="地方频道",山东卫视
+https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="地方频道",山东卫视
 https://t.freetv.fun/live/shan-dong-wei-shi-20.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="地方频道",山东卫视
@@ -883,6 +893,8 @@ https://t.freetv.fun/live/yun-nan-wei-shi-7.php
 https://t.freetv.fun/live/yun-nan-wei-shi.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/云南卫视.png" group-title="地方频道",云南卫视
 http://111.56.90.5/000000000000/5000000011000031120/1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png" group-title="地方频道",西藏卫视
+https://t.freetv.fun/live/xi-cang-wei-shi.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png" group-title="地方频道",西藏卫视
 https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png" group-title="地方频道",西藏卫视
@@ -1910,6 +1922,8 @@ https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",五星体育
 https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
+https://t.freetv.fun/live/bing-tuan-wei-shi-6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
 https://t.freetv.fun/live/bing-tuan-wei-shi-18.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
 https://t.freetv.fun/live/bing-tuan-wei-shi-16.m3u8
@@ -2168,6 +2182,8 @@ https://t.freetv.fun/live/jin-ying-qia-tong-9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",金鹰卡通
 https://t.freetv.fun/live/jin-ying-qia-tong-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",电影
+https://t.freetv.fun/live/dian-ying-9.flv
+#EXTINF:-1 tvg-logo="" group-title="高清频道",电影
 https://t.freetv.fun/live/dian-ying-10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",电影
 https://t.freetv.fun/live/dian-ying-2.flv
@@ -2346,6 +2362,8 @@ https://t.freetv.fun/live/cctv-11xi-qu-10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-11戏曲
 https://t.freetv.fun/live/cctv-11xi-qu-4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-10科教
+https://t.freetv.fun/live/cctv-10ke-jiao-4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-10科教
 https://t.freetv.fun/live/cctv-10ke-jiao-11.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-10科教
 https://t.freetv.fun/live/cctv-10ke-jiao-10.m3u8
@@ -2419,6 +2437,8 @@ https://t.freetv.fun/live/cctv13xin-wen-3.m3u8
 https://t.freetv.fun/live/cctv13xin-wen.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv13新闻
 https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-13新闻
+https://t.freetv.fun/live/cctv-13xin-wen-12.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-13新闻
 https://t.freetv.fun/live/cctv-13xin-wen-5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv-13新闻
