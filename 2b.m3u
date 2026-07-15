@@ -384,6 +384,8 @@ https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/黑龙江卫视.png" group-title="地方频道",黑龙江卫视
 https://t.freetv.fun/live/hei-long-jiang-wei-shi-10.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png" group-title="地方频道",东方卫视
+https://t.freetv.fun/live/dong-fang-wei-shi-24.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png" group-title="地方频道",东方卫视
 https://t.freetv.fun/live/dong-fang-wei-shi-13.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png" group-title="地方频道",东方卫视
 https://t.freetv.fun/live/dong-fang-wei-shi-23.m3u8
@@ -4052,7 +4054,11 @@ https://t.freetv.fun/live/mi-gu-ti-yu.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="好萊塢电影",好萊塢电影
 https://t.freetv.fun/live/hao-lai-wu-dian-ying-1.php
 #EXTINF:-1 group-title="高清频道" tvg-id="周星驰电影 *$",周星驰电影 *$
+https://t.freetv.fun/live/zhou-xing-chi-dian-ying-1.m3u8
+#EXTINF:-1 group-title="高清频道" tvg-id="周星驰电影 *$",周星驰电影 *$
 https://t.freetv.fun/live/zhou-xing-chi-dian-ying-4.m3u8
+#EXTINF:-1 group-title="高清频道" tvg-id="成龙电影 *$",成龙电影 *$
+https://t.freetv.fun/live/cheng-long-dian-ying.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="成龙电影 *$",成龙电影 *$
 https://t.freetv.fun/live/cheng-long-dian-ying-4.m3u8
 #EXTINF:-1 group-title="地方卫视" tvg-id="星空卫视 *$",星空卫视 *$
