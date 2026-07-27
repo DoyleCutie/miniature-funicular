@@ -852,6 +852,8 @@ https://t.freetv.fun/live/hai-nan-wei-shi-3.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海南卫视.png" group-title="地方频道",海南卫视
 http://111.56.90.5/000000000000/1000000002000023773/1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="地方频道",三沙卫视
+https://t.freetv.fun/live/san-sha-wei-shi-7.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 https://t.freetv.fun/live/san-sha-wei-shi-3.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="地方频道",三沙卫视
 https://t.freetv.fun/live/san-sha-wei-shi-5.m3u8
@@ -4167,3 +4169,5 @@ https://t.freetv.fun/live/dong-sen-wei-shi.m3u8
 https://t.freetv.fun/live/wei-lai-dian-ying-1.php
 #EXTINF:-1 group-title="高清频道" tvg-id="爱电影",爱电影
 https://t.freetv.fun/live/ai-dian-ying-1.m3u8
+#EXTINF:-1 group-title="高清频道" tvg-id="CHC动作电影 *$",CHC动作电影 *$
+https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
