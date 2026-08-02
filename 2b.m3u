@@ -914,6 +914,8 @@ https://t.freetv.fun/live/zhong-qing-wei-shi-12.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/重庆卫视.png" group-title="地方频道",重庆卫视
 http://111.56.90.5/000000000000/1000000002000018937/1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视.png" group-title="地方频道",四川卫视
+https://t.freetv.fun/live/si-chuan-wei-shi-15.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视.png" group-title="地方频道",四川卫视
 https://t.freetv.fun/live/si-chuan-wei-shi-10.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视.png" group-title="地方频道",四川卫视
 https://t.freetv.fun/live/si-chuan-wei-shi-16.m3u8
@@ -2082,6 +2084,8 @@ https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="高清频道",五星体育
 https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
+https://t.freetv.fun/live/bing-tuan-wei-shi-3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
 https://t.freetv.fun/live/bing-tuan-wei-shi-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="地方卫视",兵团卫视
 https://t.freetv.fun/live/bing-tuan-wei-shi-9.php
@@ -2947,6 +2951,8 @@ https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi-4.m3u8
 https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv5 plus体育赛事
 https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6电影
+https://t.freetv.fun/live/cctv6dian-ying-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6电影
 https://t.freetv.fun/live/cctv6dian-ying-2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",cctv6电影
@@ -4217,3 +4223,5 @@ https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-ou-zhou.m3u8
 https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-mei-zhou.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="cctv5 plus体育-测试",cctv5 plus体育-测试
 https://t.freetv.fun/live/cctv5-plusti-yu-ce-shi.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="cctv=15",cctv=15
+https://t.freetv.fun/live/cctv-15-2.m3u8
