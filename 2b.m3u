@@ -592,6 +592,8 @@ https://t.freetv.fun/live/dong-nan-wei-shi-4.php
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="地方频道",东南卫视
 http://111.56.90.5/000000000000/1000000005000265033/1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
+https://t.freetv.fun/live/jiang-xi-wei-shi-8.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
 https://t.freetv.fun/live/jiang-xi-wei-shi-3.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="地方频道",江西卫视
 https://t.freetv.fun/live/jiang-xi-wei-shi-17.m3u8
@@ -3723,6 +3725,8 @@ https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
 https://t.freetv.fun/live/jin-ying-ji-shi-gao-qing.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="东森电影ettv movie",东森电影ettv movie
 https://t.freetv.fun/live/dong-sen-dian-ying-ettv-movie.php
+#EXTINF:-1 group-title="高清频道" tvg-id="优漫卡通",优漫卡通
+https://t.freetv.fun/live/you-man-qia-tong-3.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="优漫卡通",优漫卡通
 https://t.freetv.fun/live/you-man-qia-tong-4.m3u8
 #EXTINF:-1 group-title="地方卫视" tvg-id="星空卫视",星空卫视
