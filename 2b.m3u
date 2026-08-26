@@ -3524,6 +3524,8 @@ https://t.freetv.fun/live/mi-gu-cctv7.php
 #EXTINF:-1 group-title="高清频道" tvg-id="chc高清电影",chc高清电影
 https://t.freetv.fun/live/chcgao-qing-dian-ying.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="劲爆体育",劲爆体育
+https://t.freetv.fun/live/jing-bao-ti-yu.php
+#EXTINF:-1 group-title="高清频道" tvg-id="劲爆体育",劲爆体育
 https://t.freetv.fun/live/jing-bao-ti-yu.m3u8
 #EXTINF:-1 group-title="高清频道" tvg-id="峨嵋电影",峨嵋电影
 https://t.freetv.fun/live/e-mei-dian-ying-2.m3u8
